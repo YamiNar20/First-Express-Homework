@@ -55,25 +55,3 @@ app.get('/fibonacci/:number', (req, res) => {
 app.listen(3000, () => {
     console.log('Yes i am listening on port 3000');
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-app.listen(3000, () => {
-    console.log('Yes i am listening on port 3000');
-});
